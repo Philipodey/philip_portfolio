@@ -34,5 +34,9 @@
   {
     "title": "FIGMA",
     "imageSrc": "skills/figmaIcon.svg"
+  },
+  {
+    "title": "JUPYTER NOTEBOOK",
+    "imageSrc":"skills/jupyter-notebook.png"
   }
 ]
