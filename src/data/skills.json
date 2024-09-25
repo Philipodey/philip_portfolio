@@ -38,5 +38,9 @@
   {
     "title": "JUPYTER NOTEBOOK",
     "imageSrc":"skills/jupyter-notebook.png"
+  },
+  {
+    "title":"MICROSOFT EXCEL",
+    "imageSrc": "skills/microsoft-excel"
   }
 ]
