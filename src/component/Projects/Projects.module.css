@@ -94,3 +94,8 @@
     padding: 1px 22px;
 
 }
+
+
+.link:hover{
+    color: skyblue;
+}
