@@ -6,20 +6,39 @@
     "endDate": "June, 2024",
     "experience": [
       "Collaborated with other software engineers to build restful APIs",
-      "Built logistics APIs",
-      ""
+      "Built logistics APIs"
     ],
     "imageSrc": "history/semicolon.png"
   },
   {
-    "role": "Software Engineer" ,
-    "organisation": "Kraftahs",
+    "role": "Data Scientist Intern" ,
+    "organisation": "Semicolon",
     "startDate": "July, 2024",
     "endDate": "till now",
     "experience": [
-      "Collaborated with other software engineers to build restful APIs",
-      "Built logistics APIs"
+      "Improved targeted marketing strategies by identifying distinct customer groups.",
+      "Visualized customer segments through informative plots, enhancing stakeholder understanding.",
+      "Achieved an accuracy rate of over 90% with time series forecasting models.",
+      "Delivered interactive dashboards for sales team to visualize forecasts and plan inventory.",
+      "Built a fraud detection system that implemented anomaly detection techniques achieving a precision of 95%.",
+      "Collaborated with cross-functional teams to integrate the model into production systems."
     ],
-    "imageSrc": "history/kraftahs.jpg"
+    "imageSrc": "history/semicolon.jpg"
+  },
+  {
+    "role": "Software Development Facilitator" ,
+    "organisation": "Premier Hub Innovation Center",
+    "startDate": "Sept, 2024",
+    "endDate": "till now",
+    "experience": [
+      "Designed and delivered training sessions to enhance team understanding of Agile principles and practices.",
+      "Facilitated daily stand-ups, sprint planning, and retrospective meetings to ensure effective collaboration.",
+      "Matched junior developers with experienced mentors to foster skill development and professional growth.",
+      "Conducted regular check-ins to assess progress and provide additional resources as needed.",
+      "Collaborated with teams to analyze current workflows and suggest process enhancements.",
+      "Implemented action plans based on team feedback to foster a culture of continuous improvement."
+    ],
+    "imageSrc": "history/premier_hub.jpg"
   }
+  
 ]

@@ -18,7 +18,7 @@ export const Footer = () =>{
                 </li>
                 <li className={styles.link}>
                     <img
-                        src={getImageUrl("contact/socialIcon.png")}
+                        src={getImageUrl("contact/linkedIn-logo1.png")}
                         alt={"LinkedIn icon"}/>
                     <a href={"https://www.linkedin.com/in/philip-odey-09b795283/"}>linkedin.com/philipodey</a>
                 </li>
