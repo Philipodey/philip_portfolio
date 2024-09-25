@@ -33,7 +33,7 @@
     },
     {
       "title": "Movie Recommendation System",
-      "imageSrc": "projects/movieTeller.png",
+      "imageSrc": "projects/movie_recommender_image.png",
       "description": "I developed a personalized movie recommendation system that suggests movies based on user preferences and similar content. The system was built using a content-based filtering approach, utilizing movie metadata such as genres, cast, crew, and plot descriptions to provide relevant recommendations.",
       "skills": ["Python"],
       "demo": "https://movie-recommendation1.streamlit.app/",
