@@ -30,6 +30,30 @@
       "skills": ["React"],
       "demo": "https://vercel.com/odey-philips-projects/react-page",
       "source": "https://github.com/Philipodey/react_page.git"
+    },
+    {
+      "title": "Movie Recommendation System",
+      "imageSrc": "projects/movieTeller.png",
+      "description": "I developed a personalized movie recommendation system that suggests movies based on user preferences and similar content. The system was built using a content-based filtering approach, utilizing movie metadata such as genres, cast, crew, and plot descriptions to provide relevant recommendations.",
+      "skills": ["Python"],
+      "demo": "https://movie-recommendation1.streamlit.app/",
+      "source": "https://github.com/Philipodey/movie_recommender.git"
+    },
+    {
+      "title": "Sales Insight",
+      "imageSrc": "projects/power_bi_image.png",
+      "description": "I Developed an interactive Sales Insights Dashboard using Power BI to provide comprehensive data-driven insights into sales performance. The dashboard was designed to enable sales teams and management to make informed decisions based on real-time analytics, trend analysis, and key performance indicators (KPIs).",
+      "skills": ["Power BI", "Microsoft Excel"],
+      "demo": "https://app.powerbi.com/groups/05f675b1-40bc-44dd-a052-d10b68d81064/reports/95a1c1f8-c04c-4c7f-9a10-fd2727a9e101/574cb21378a0b77c372c?experience=power-bi",
+      "source": "https://app.powerbi.com/groups/05f675b1-40bc-44dd-a052-d10b68d81064/reports/95a1c1f8-c04c-4c7f-9a10-fd2727a9e101/574cb21378a0b77c372c?experience=power-bi"
+    },
+    {
+      "title": "Hotel Insight",
+      "imageSrc": "projects/power_bi_image.png",
+      "description": "I Developed a comprehensive Power BI dashboard to provide actionable insights into hotel performance, customer behavior, and key operational metrics. The project aimed to improve decision-making in hotel management by visualizing critical KPIs such as occupancy rates, revenue per available room (RevPAR), average daily rate (ADR), customer satisfaction, and booking trends.",
+      "skills": ["Power BI", "Microsoft Excel"],
+      "demo": "https://app.powerbi.com/groups/05f675b1-40bc-44dd-a052-d10b68d81064/reports/c8763b8f-fed8-454b-b906-ed3500b9c51a/d1160150862c7b2d365b?experience=power-bi",
+      "source": "https://app.powerbi.com/groups/05f675b1-40bc-44dd-a052-d10b68d81064/reports/c8763b8f-fed8-454b-b906-ed3500b9c51a/d1160150862c7b2d365b?experience=power-bi"
     }
 
 ]

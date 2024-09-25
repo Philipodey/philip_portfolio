@@ -13,7 +13,8 @@ export const About = ()=>{
                     <img src={getImageUrl("about/softwareDeveloper.png")} alt={"cursor icon"}/>
                     <div className={styles.textCover}>
                         <h3>Software Engineer</h3>
-                        <p>I'm a Data Scientist || Software engineer experienced in Java, Spring boot, react, react native, MySQL, MongoDb, Python, PowerBI, Excel</p>
+                        <p>I'm a Data Scientist ||ML Engineer||AI Engineer|| Software Engineer experienced
+                             in Java, Spring boot, react, react native, MySQL, MongoDb, Python, PowerBI, Excel</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
